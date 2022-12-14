@@ -9,6 +9,10 @@
   padding: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* general */
 h1,
 h2,
